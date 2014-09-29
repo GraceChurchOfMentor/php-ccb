@@ -1,0 +1,8 @@
+{
+    "name": "gracechurchofmentor/php-ccb",
+    "autoload": {
+        "psr-0": {
+            "GraceChurchOfMentor\\Ccb": "src"
+        }
+    }
+}
